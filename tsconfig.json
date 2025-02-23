@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "NodeNext",
+    "target": "esnext",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "declarationMap": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "outDir": "dist/",
+    "rootDir": "src/",
+    "moduleResolution": "NodeNext",
+    "paths": {
+      "@types/node": ["node_modules/@types/node"],
+      "discord.js": ["node_modules/discord.js"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "node_modules"
+  ]
+}
+
+
+
