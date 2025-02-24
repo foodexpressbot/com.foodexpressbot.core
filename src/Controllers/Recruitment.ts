@@ -3,7 +3,11 @@ import Snowflake from '../Structure/Snowflake';
 import formatAggregate from '../Util/formatAggregate';
 import dayjs from 'dayjs';
 import dateUtil from '../Util/dateUtil';
+<<<<<<< HEAD
 import { UserOptions, RankOptions, Permissions, RecruitmentApplicationStatus, RecruitmentDiscordChannelMessage, RecruitmentApplicationResponse, RecruitmentApplicationOption, RecruitmentFormOptions } from 'com.foodexpressbot.types/types';
+=======
+import { UserOptions, RankOptions, Permissions, RecruitmentApplicationStatus, RecruitmentDiscordChannelMessage, RecruitmentApplicationResponse, RecruitmentApplicationOption, RecruitmentFormOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 import Perms from '../Util/Permissions';
 import { getCreationDate } from '../Util/snowflakes';
 import getAgeFromDate from '../Util/getAgeFromDate';

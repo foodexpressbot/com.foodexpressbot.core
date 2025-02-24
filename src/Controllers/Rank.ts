@@ -1,7 +1,11 @@
 import Controller from '../Structure/Controller';
 import Snowflake from '../Structure/Snowflake';
 import formatAggregate from '../Util/formatAggregate';
+<<<<<<< HEAD
 import { RankOptions, UserOptions, KnowledgeBaseOptions, KnowledgeBaseCategoryOptions } from 'com.foodexpressbot.types/types';
+=======
+import { RankOptions, UserOptions, KnowledgeBaseOptions, KnowledgeBaseCategoryOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Rank extends Controller {
     declare public allowedFields: string[];

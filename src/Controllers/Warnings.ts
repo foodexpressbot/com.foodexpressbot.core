@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { WarningOptions } from 'com.foodexpressbot.types/types';
+=======
+import { WarningOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 import Controller from '../Structure/Controller';
 import formatAggregate from '../Util/formatAggregate';
 import dateUtil from '../Util/dateUtil';

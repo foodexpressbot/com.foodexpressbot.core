@@ -1,5 +1,9 @@
 import Controller from '../Structure/Controller';
+<<<<<<< HEAD
 import { UserOptions, BanOptions, RankHistoryOptions, RankOptions, Permissions } from 'com.foodexpressbot.types/types';
+=======
+import { UserOptions, BanOptions, RankHistoryOptions, RankOptions, Permissions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 import formatAggregate from '../Util/formatAggregate';
 import Perms from '.././Util/Permissions';
 import escapeMarkdown from '../Util/escapeMarkdown';

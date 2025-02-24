@@ -1,5 +1,9 @@
 import Controller from '../Structure/Controller';
+<<<<<<< HEAD
 import { BlacklistOptions } from 'com.foodexpressbot.types/types';
+=======
+import { BlacklistOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Blacklist extends Controller {
     constructor(client, db) {

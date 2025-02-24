@@ -1,5 +1,9 @@
 import Controller from '../Structure/Controller';
+<<<<<<< HEAD
 import { SessionOptions } from 'com.foodexpressbot.types/types';
+=======
+import { SessionOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 import crypto from 'crypto';
 import formatAggregate from '../Util/formatAggregate';
 

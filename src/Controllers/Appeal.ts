@@ -4,7 +4,11 @@ import escapeMarkdown from '../Util/escapeMarkdown';
 import generateUniqueID from '../Util/generateUniqueID';
 import formatAggregate from '../Util/formatAggregate';
 import { USER_AGGREGATE_FIELDS, APPEAL_MIN_VOTE_COUNT } from '../Constants';
+<<<<<<< HEAD
 import { AppealOptions, AppealType, AppealStatus, PunishmentOptions, UpvoteOptions, BlacklistOptions } from 'com.foodexpressbot.types/types';
+=======
+import { AppealOptions, AppealType, AppealStatus, PunishmentOptions, UpvoteOptions, BlacklistOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Appeal extends Controller {
     public declare allowedFields: string[];

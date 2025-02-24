@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Permissions as Perms } from 'com.foodexpressbot.types/types';
+=======
+import { Permissions as Perms } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Permissions {
 	public permissions: number;

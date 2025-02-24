@@ -3,7 +3,11 @@ import {
 	RequestBlacklistOption,
 	RequestBacklogOption,
 	BacklogTypes
+<<<<<<< HEAD
 } from 'com.foodexpressbot.types/types';
+=======
+} from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 import { USER_AGGREGATE_FIELDS } from '../Constants';
 import Controller from '../Structure/Controller';
 import formatAggregate from '../Util/formatAggregate';

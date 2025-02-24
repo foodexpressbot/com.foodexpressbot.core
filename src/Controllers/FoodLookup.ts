@@ -1,7 +1,11 @@
 import Controller from '../Structure/Controller';
 import Snowflake from '../Structure/Snowflake';
 import formatAggregate from '../Util/formatAggregate';
+<<<<<<< HEAD
 import { FoodLookupOptions } from 'com.foodexpressbot.types/types';
+=======
+import { FoodLookupOptions } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class FoodLookup extends Controller {
     public declare allowedFields: string[];

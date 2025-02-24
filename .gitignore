@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+dist/
+src/config.ts
+.env
+package-links.json
+package-lock.json

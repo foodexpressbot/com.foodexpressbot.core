@@ -2,7 +2,11 @@ import { Db } from 'mongodb';
 import { Core } from '../Core';
 import Cache from '../Structure/Cache';
 import Logger from '../Util/Logger';
+<<<<<<< HEAD
 import {RankOptions} from 'com.foodexpressbot.types/types';
+=======
+import {RankOptions} from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Ranks extends Cache {
     public initComplete: boolean = false;

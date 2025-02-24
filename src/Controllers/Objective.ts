@@ -3,7 +3,11 @@ import escapeMarkdown from '../Util/escapeMarkdown';
 import Controller from '../Structure/Controller';
 import Snowflake from '../Structure/Snowflake';
 import formatAggregate from '../Util/formatAggregate';
+<<<<<<< HEAD
 import { ClaimedObjectiveOptions, ObjectiveOptions, ObjectiveRewardType } from 'com.foodexpressbot.types/types';
+=======
+import { ClaimedObjectiveOptions, ObjectiveOptions, ObjectiveRewardType } from 'com.virtualdinerbot.types/types';
+>>>>>>> 70d76e4 (Initial commit)
 
 export default class Objective extends Controller {
   constructor(client, db) {

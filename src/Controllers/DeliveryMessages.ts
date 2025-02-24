@@ -1,6 +1,11 @@
 import Controller from '../Structure/Controller';
+<<<<<<< HEAD
 import { ShareDeliveryMessageOptions } from 'com.foodexpressbot.types/types';
 import { USER_AGGREGATE_FIELDS } from 'com.foodexpressbot.types/constants';
+=======
+import { ShareDeliveryMessageOptions } from 'com.virtualdinerbot.types/types';
+import { USER_AGGREGATE_FIELDS } from 'com.virtualdinerbot.types/constants';
+>>>>>>> 70d76e4 (Initial commit)
 import generateUniqueID from '../Util/generateUniqueID';
 import formatAggregate from '../Util/formatAggregate';
 import slugify from '../Util/slugify';
