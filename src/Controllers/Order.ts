@@ -1,9 +1,5 @@
 import Controller from '../Structure/Controller';
-<<<<<<< HEAD
 import { UserOptions, Permissions, BacklogTypes, OrderReportOptions, OrderOptions, OrderStatus } from 'com.foodexpressbot.types/types';
-=======
-import { UserOptions, Permissions, BacklogTypes, OrderReportOptions, OrderOptions, OrderStatus } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import Perms from '../Util/Permissions';
 import formatAggregate from '../Util/formatAggregate';
 import { escapeMarkdown } from 'discord.js';

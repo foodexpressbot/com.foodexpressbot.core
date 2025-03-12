@@ -3,11 +3,7 @@ import formatAggregate from '../Util/formatAggregate';
 import escapeMarkdown from '../Util/escapeMarkdown';
 import dayjs from 'dayjs';
 import Snowflake from '../Structure/Snowflake';
-<<<<<<< HEAD
 import { OnLeaveOptions, OnLeaveStatus } from 'com.foodexpressbot.types/types';
-=======
-import { OnLeaveOptions, OnLeaveStatus } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import { USER_AGGREGATE_FIELDS } from '../Constants';
 
 export default class OnLeaveController extends Controller {

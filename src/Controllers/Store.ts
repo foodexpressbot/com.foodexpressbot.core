@@ -1,9 +1,5 @@
 import Controller from '../Structure/Controller';
-<<<<<<< HEAD
 import { UserOptions, PerkTypes, StoreItem } from 'com.foodexpressbot.types/types';
-=======
-import { UserOptions, PerkTypes, StoreItem } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 
 export default class ShopController extends Controller {
     public shopItems: StoreItem[];

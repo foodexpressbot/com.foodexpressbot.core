@@ -1,9 +1,5 @@
 import Controller from '../Structure/Controller';
-<<<<<<< HEAD
 import { SubscriptionOptions, StripeCustomerData, UserSubscriptionOptions } from 'com.foodexpressbot.types/types';
-=======
-import { SubscriptionOptions, StripeCustomerData, UserSubscriptionOptions } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import Stripe from 'stripe';
 
 export default class StripeController extends Controller {

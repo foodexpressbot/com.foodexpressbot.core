@@ -1,11 +1,7 @@
 import Controller from '../Structure/Controller';
 import { USER_AGGREGATE_FIELDS  } from '../Constants';
 import formatAggregate from '../Util/formatAggregate';
-<<<<<<< HEAD
 import { ManagementStatisticOptions } from 'com.foodexpressbot.types/types';
-=======
-import { ManagementStatisticOptions } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 
 export default class StatisticsController extends Controller {
     constructor(client, db) {

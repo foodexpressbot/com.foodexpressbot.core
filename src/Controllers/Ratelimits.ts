@@ -1,9 +1,5 @@
 import Controller from '../Structure/Controller';
-<<<<<<< HEAD
 import { RatelimitOptions } from 'com.foodexpressbot.types/types';
-=======
-import { RatelimitOptions } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import { Redis } from 'ioredis';
 
 export default class Ratelimits extends Controller {

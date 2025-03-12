@@ -1,10 +1,6 @@
 import Controller from '../Structure/Controller';
 import { Redis } from 'ioredis';
-<<<<<<< HEAD
 import { DeliveryQueueOption } from 'com.foodexpressbot.types/types';
-=======
-import { DeliveryQueueOption } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 
 export default class DeliveryQueue extends Controller {
     public redisKey: string;

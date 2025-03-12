@@ -1,10 +1,6 @@
 import Snowflake from '../Structure/Snowflake';
 import Controller from '../Structure/Controller';
-<<<<<<< HEAD
 import { TeamOptions } from 'com.foodexpressbot.types/types';
-=======
-import { TeamOptions } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import formatAggregate from '../Util/formatAggregate';
 import { USER_AGGREGATE_FIELDS } from '../Constants';
 

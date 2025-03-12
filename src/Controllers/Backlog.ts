@@ -1,10 +1,6 @@
 import Controller from '../Structure/Controller';
 import dateUtil from '../Util/dateUtil';;
-<<<<<<< HEAD
 import { BacklogOptions, BacklogTypes } from 'com.foodexpressbot.types/types';
-=======
-import { BacklogOptions, BacklogTypes } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 
 export default class Backlog extends Controller {
     constructor(client, db) {

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { ModMailTicketOptions, ModMailBlockedUsers, ModMailTicketStatus } from 'com.foodexpressbot.types/types';
-=======
-import { ModMailTicketOptions, ModMailBlockedUsers, ModMailTicketStatus } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import Controller from '../Structure/Controller';
 import { Message } from 'discord.js';
 import { TextChannel } from 'eris';

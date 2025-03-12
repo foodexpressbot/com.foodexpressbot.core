@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { ReportOrderOptions } from 'com.foodexpressbot.types/types';
-=======
-import { ReportOrderOptions } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 import { USER_AGGREGATE_FIELDS } from '../Constants';
 import Controller from '../Structure/Controller';
 import formatAggregate from '../Util/formatAggregate';

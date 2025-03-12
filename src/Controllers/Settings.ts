@@ -1,10 +1,6 @@
 import Controller from '../Structure/Controller';
 import convertString from '../Util/convertString';
-<<<<<<< HEAD
 import { SettingsValue } from 'com.foodexpressbot.types/types';
-=======
-import { SettingsValue } from 'com.virtualdinerbot.types/types';
->>>>>>> 70d76e4 (Initial commit)
 
 const DEFAULT_SETTINGS = [
     {
