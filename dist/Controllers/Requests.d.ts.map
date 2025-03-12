@@ -1,0 +1,1 @@
+{"version":3,"file":"Requests.d.ts","sourceRoot":"","sources":["../../src/Controllers/Requests.ts"],"names":[],"mappings":"AAAA,OAAO,EACN,gBAAgB,EAIhB,MAAM,gCAAgC,CAAC;AAExC,OAAO,UAAU,MAAM,yBAAyB,CAAC;AAWjD,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,UAAU;gBAC7C,MAAM,KAAA,EAAE,EAAE,KAAA;IAMf,aAAa,CAAC,OAAO,EAAE,gBAAgB,GAAG,OAAO,CAAC,gBAAgB,CAAC;CAoR1E"}

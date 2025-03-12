@@ -1,0 +1,1 @@
+{"version":3,"file":"escapeMarkdown.js","sourceRoot":"","sources":["../../src/Util/escapeMarkdown.ts"],"names":[],"mappings":";;AAAA,kBAAe,CAAC,OAAe,EAAU,EAAE;IACvC,OAAO,OAAO;SACT,KAAK,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,EAAE,CAAC;SACnB,KAAK,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;AAC/B,CAAC,CAAC"}

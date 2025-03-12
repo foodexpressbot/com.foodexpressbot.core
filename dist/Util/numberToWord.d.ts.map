@@ -1,0 +1,1 @@
+{"version":3,"file":"numberToWord.d.ts","sourceRoot":"","sources":["../../src/Util/numberToWord.ts"],"names":[],"mappings":"AAAA,oBAAY,KAAK;IACb,GAAG,IAAI;IACP,GAAG,IAAI;IACP,KAAK,IAAI;CACZ;AAED,oBAAY,SAAS;IACjB,GAAG,UAAU;IACb,GAAG,WAAW;IACd,KAAK,UAAU;CAClB;AAED,eAAO,MAAM,eAAe,WAAY,MAAM,KAAG,MAEhD,CAAC;AAEF,eAAO,MAAM,YAAY,WAAY,MAAM,KAAG,MAE7C,CAAC"}

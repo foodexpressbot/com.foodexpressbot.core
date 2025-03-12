@@ -1,0 +1,1 @@
+{"version":3,"file":"messageContainsDiscordInvite.js","sourceRoot":"","sources":["../../src/Util/messageContainsDiscordInvite.ts"],"names":[],"mappings":";;AAAA,MAAM,KAAK,GAAG,uFAAuF,CAAC;AAEtG,kBAAe,CAAC,OAAe,EAAW,EAAE;IACxC,OAAO,KAAK,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;AAC/B,CAAC,CAAC"}

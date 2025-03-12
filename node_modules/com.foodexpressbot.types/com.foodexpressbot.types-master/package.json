@@ -1,0 +1,33 @@
+{
+  "name": "com.foodexpressbot.types",
+  "version": "1.0.6",
+  "description": "Types for Virtual Diner services.",
+  "main": "cjs/types.js",
+  "exports": {
+    "./types": {
+      "require": "./cjs/types.js",
+      "import": "./esm/types.js"
+    },
+    "./constants": {
+      "require": "./cjs/constants.js",
+      "import": "./esm/constants.js"
+    }
+  },
+  "scripts": {
+    "build": "npx tsc --module es2022 --outDir esm/ && npx tsc --module commonjs --outDir cjs/"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foodexpressbot/com.foodexpressbot.types.git"
+  },
+  "author": "Jacob Mitchell",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/foodexpressbot/com.foodexpressbot.types/issues"
+  },
+  "homepage": "https://github.com/foodexpressbot/com.foodexpressbot.types#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}

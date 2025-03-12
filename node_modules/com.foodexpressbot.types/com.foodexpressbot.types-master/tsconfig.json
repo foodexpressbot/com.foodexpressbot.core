@@ -1,0 +1,26 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "esnext",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationMap": true,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "alwaysStrict": true,
+        "noUnusedParameters": true,
+        "strictNullChecks": true,
+        "outDir": "cjs/",
+        "moduleResolution": "NodeNext"
+    },
+    "include": [
+        "types.ts",
+        "constants.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

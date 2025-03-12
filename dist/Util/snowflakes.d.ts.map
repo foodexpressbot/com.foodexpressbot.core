@@ -1,0 +1,1 @@
+{"version":3,"file":"snowflakes.d.ts","sourceRoot":"","sources":["../../src/Util/snowflakes.ts"],"names":[],"mappings":"AAEA,QAAA,MAAM,eAAe,cAAe,MAAM,GAAG,MAAM,KAAG,MAAM,GAAG,IAG9D,CAAC;AAEF,QAAA,MAAM,WAAW,cAAe,MAAM,GAAG,MAAM,KAAG,OAGjD,CAAC;AAGF,OAAO,EACH,eAAe,EACf,WAAW,EACd,CAAC"}
